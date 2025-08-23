@@ -16,7 +16,7 @@ I understood the trade-offs: ERP systems bring structure and scale, but Excel is
 
 ---
 
-## 2. Project Tracking in Excel
+## 2. Project Tracking in Excel [**Click here to view progress**](./02_Project_Tracking_in_Excel)  
 
 ### Structuring and Managing Data with Excel Tables
 
