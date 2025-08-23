@@ -23,7 +23,7 @@ I found out that tables bring several advantages compared to raw ranges:
 
 Another feature I practiced with was the **Slicer** tool. A slicer provides a clickable filter for categorical fields such as “Assigned To.” After inserting a slicer (via **Insert → Slicer**), I could filter the table interactively, and the table updated in real time.
 
-![Screenshot of slicer filtering by "Assigned To"](media/screenshot-slicer.png)
+![Screenshot of slicer filtering by "Assigned To"](media/slicer.png)
 
 What I learned here is that tables are more than just formatting: they form the foundation for scalable project tracking.
 
