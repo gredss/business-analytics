@@ -1,3 +1,4 @@
+![Banner](media/banner.png)
 # Project Management in Excel
 
 This repository documents my learning journey in using **Microsoft Excel** as a project management tool. While many organizations rely on ERP systems, I explored how Excel can still deliver practical value for project tracking, visualization, and evaluation. Each section reflects not only the technical content but also **what I learned** as I worked through the material.
