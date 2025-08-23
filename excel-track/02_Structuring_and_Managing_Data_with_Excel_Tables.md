@@ -6,11 +6,11 @@ One of the first things I learned in project tracking is the importance of keepi
 
 Creating a table is straightforward: highlight the data range (for example, `A1:G7`), go to **Insert → Table**, and confirm that *My table has headers* is checked. The shortcut **Ctrl+T** achieves the same result. Once created, I also learned that tables can be named (e.g., `Data`) which makes it much easier to reference them in formulas.
 
-![Scratch/Raw Table](raw-table.png)
+![Scratch/Raw Table](media/raw-table.png)
 
-![Ctrl+T](ctrl-t.png)
+![Ctrl+T](media/ctrl-t.png)
 
-![After Ctrl+T](after-ctrl-t.png)
+![After Ctrl+T](media/after-ctrl-t.png)
 
 I found out that tables bring several advantages compared to raw ranges:
 
