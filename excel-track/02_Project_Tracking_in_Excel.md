@@ -1,4 +1,8 @@
-### Structuring and Managing Data with Excel Tables
+# 02_Project_Tracking_in_Excel
+[Back to Overview](./excel-track)
+---
+
+### 2.1 Structuring and Managing Data with Excel Tables
 
 One of the first things I learned in project tracking is the importance of keeping data properly structured. Excel provides a dedicated feature called **Tables** (sometimes called “Ctrl+T tables”) that transforms a normal data range into a dynamic and more powerful object.
 
