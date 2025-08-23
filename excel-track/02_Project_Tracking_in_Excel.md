@@ -27,4 +27,6 @@ Another feature I practiced with was the **Slicer** tool. A slicer provides a cl
 
 What I learned here is that tables are more than just formatting: they form the foundation for scalable project tracking.
 
+---
+
 [Back to Overview](./excel-track)
