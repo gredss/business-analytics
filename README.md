@@ -4,7 +4,7 @@ This repository serves as a structured documentation of my continuous learning j
 
 ## Repository Structure  
 
-- [**excel/**](./excel-track)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20"/>[**excel/**](./excel-track)  
   Contains exercises and examples of structuring, analyzing, and visualizing data using Microsoft Excel. Topics include table management, formula applications, pivot tables, and reporting workflows.  
 
 - [**erp/**](./erp-track)  
