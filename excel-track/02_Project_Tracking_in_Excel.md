@@ -1,5 +1,5 @@
 # 02_Project_Tracking_in_Excel
-[Back to Overview](./excel-track/README.md)
+[Back to Overview](./README.md)
 
 ### 2.1 Structuring and Managing Data with Excel Tables
 
@@ -29,4 +29,4 @@ What I learned here is that tables are more than just formatting: they form the 
 
 ---
 
-[Back to Overview](./excel-track/README.md)
+[Back to Overview](./README.md)
