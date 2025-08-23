@@ -1,6 +1,5 @@
 # 02_Project_Tracking_in_Excel
 [Back to Overview](./excel-track)
----
 
 ### 2.1 Structuring and Managing Data with Excel Tables
 
@@ -27,3 +26,5 @@ Another feature I practiced with was the **Slicer** tool. A slicer provides a cl
 ![Screenshot of slicer filtering by "Assigned To"](media/screenshot-slicer.png)
 
 What I learned here is that tables are more than just formatting: they form the foundation for scalable project tracking.
+
+[Back to Overview](./excel-track)
