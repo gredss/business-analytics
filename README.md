@@ -4,16 +4,16 @@ This repository serves as a structured documentation of my continuous learning j
 
 ## Repository Structure  
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20"/> [**excel/**](./excel-track)  
+- [**excel/**](./excel-track)  
   Contains exercises and examples of structuring, analyzing, and visualizing data using Microsoft Excel. Topics include table management, formula applications, pivot tables, and reporting workflows.  
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sap/sap-original.svg" width="20"/> [**erp/**](./erp-track)  
+- [**erp/**](./erp-track)  
   Materials related to enterprise systems and resource planning concepts. Includes case notes, practice tasks, and scenario-based documentation exploring how ERP supports business processes.  
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" width="20"/>[**powerpoint/**](./powerpoint-track)  
+- [**powerpoint/**](./powerpoint-track)  
   Slide design exercises, storytelling practice, and documentation of presentation workflows. Includes modern, minimalist slide redesigns and examples of translating case content into effective visual formats.  
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/folder/folder-original.svg" width="20"/> [**other folders as added/**](./)  
+- [**other folders as added/**](./)  
   Additional domains of practice will be documented here in the same structured way.  
 
 ## Purpose
