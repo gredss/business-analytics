@@ -24,18 +24,18 @@ The dataset used for this project is publicly available on Kaggle: [Sales Foreca
 
 Duplicates and null values are identified and removed using Power Query.
 
-![Check-Duplicate](media/check-duplicate.png)
+<img src="media/check-duplicate.png" width="400"/>
 
-![Data-Cleaning](media/data-cleaning.png)
+<img src="media/data-cleaning.png" width="400"/>
 
 #### 1.2 Handling Data Types
 
 Directly converting text to date formats can result in errors.
 
-![Error-Date](media/error-date.png)
+<img src="media/error-date.png" width="400"/>
 
 The issue is resolved by using locale-based formatting, ensuring dates are interpreted correctly.
 
-![Locale](media/using-locale.png)
-![Sol-Date](media/solution-date.png)
+<img src="media/using-locale.png" width="400"/>
+<img src="media/solution-date.png" width="400"/>
 
