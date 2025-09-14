@@ -17,7 +17,7 @@ The dataset used for this project is publicly available on Kaggle: [Sales Foreca
 - Raw Data Tab – Original dataset for transparency and reproducibility.
 - Insights & Recommendations Slide – A polished one-pager summarizing findings and actionable recommendations.
 
---
+---
 
 ### 1. Data Cleaning Process
 #### 1.1 Checking for Duplicates and Missing Values
