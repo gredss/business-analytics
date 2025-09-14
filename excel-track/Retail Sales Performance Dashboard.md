@@ -9,7 +9,7 @@ This project develops an interactive Excel-based dashboard for a mid-size retail
 - A KPI summary at the top (Revenue, Growth %, Top Product).
 
 ### Data sources
-The dataset used for this project is publicly available on Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+The dataset used for this project is publicly available on Kaggle: [Sales Forecasting Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 ### Deliverable
 - Dashboard Tab – A clean, interactive dashboard that consolidates all key views.
