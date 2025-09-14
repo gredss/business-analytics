@@ -45,11 +45,17 @@ The issue is resolved by using locale-based formatting, ensuring dates are inter
 <img src="media/solution-date.png" width="400"/>
 
 ### 2. PivotTables and Slicers
+#### 2.1 The First PivotTable
+<img src="media/pivot.png" width="400"/>
 
+Drag "Region" to the Rows area, "Category" to the Columns area, and "Sales" to the Values area of the PivotTable Fields pane.
+
+#### 2.2 Slicer
 <img src="media/slicer.png" width="400"/>
 
 Slicer buttons to filter the Pivot instantly. This PivotTable (without timeline) shows that the total sales for the technology category across the four regions is $827,455.873.
 
+#### 2.3 Timeline for Dates
 <img src="media/timeline.png" width="400"/>
 
 Use the timeline controls to switch between Year / Quarter / Month / Day and drag the handles to filter. The PivotTable is telling us that the total sales for furniture in Q3 2018 across the four regions shown was $55,311.65.
