@@ -11,4 +11,5 @@ A mid-size retailer wants to track sales performance across regions, categories,
 ### Data sources
 https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
-### Deliverable: A clean dashboard tab, assumptions tab, and raw data tab. A polished slide summarizing “Insights & Recommendations.”
+### Deliverable
+A clean dashboard tab, assumptions tab, and raw data tab. A polished slide summarizing “Insights & Recommendations.”
