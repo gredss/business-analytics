@@ -1,1 +1,13 @@
+# Retail Sales Performance Dashboard
 
+A mid-size retailer wants to track sales performance across regions, categories, and months. Leadership needs a single-page dashboard with drill-down capability, replacing manual reporting that takes hours.
+
+### Excel features:
+- Power Query for data cleaning (removing nulls, formatting dates).
+- PivotTables with slicers for interactive filtering.
+- Conditional formatting for visual alerts (e.g., red cells for regions below target).
+- A KPI summary at the top (Revenue, Growth %, Top Product).
+
+### Data sources: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+
+### Deliverable: An Excel file with a clean dashboard tab, assumptions tab, and raw data tab. A polished slide summarizing “Insights & Recommendations.”
