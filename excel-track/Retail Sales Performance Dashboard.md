@@ -1,34 +1,40 @@
 # Retail Sales Performance Dashboard
 
-A mid-size retailer wants to track sales performance across regions, categories, and months. Leadership needs a single-page dashboard with drill-down capability, replacing manual reporting that takes hours.
+This project develops an interactive Excel-based dashboard for a mid-size retailer to monitor and analyze sales performance across regions, product categories, and time periods. The goal is to provide leadership with a single-page view, drill-down capability, and automated reporting that replaces a previously manual process requiring several hours each cycle.
 
-### Excel features:
+### Features and Functionality
 - Power Query for data cleaning (removing nulls, formatting dates).
 - PivotTables with slicers for interactive filtering.
 - Conditional formatting for visual alerts (e.g., red cells for regions below target).
 - A KPI summary at the top (Revenue, Growth %, Top Product).
 
 ### Data sources
-https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+The dataset used for this project is publicly available on Kaggle: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ### Deliverable
-A clean dashboard tab, assumptions tab, and raw data tab. A polished slide summarizing “Insights & Recommendations.”
+- Dashboard Tab – A clean, interactive dashboard that consolidates all key views.
+- Assumptions Tab – Documentation of cleaning rules, calculated metrics, and business logic applied.
+- Raw Data Tab – Original dataset for transparency and reproducibility.
+- Insights & Recommendations Slide – A polished one-pager summarizing findings and actionable recommendations.
 
 --
 
-### 1. Data Cleaning
-#### 1.1 Check for duplicate and missing value
+### 1. Data Cleaning Process
+#### 1.1 Checking for Duplicates and Missing Values
+
+Duplicates and null values are identified and removed using Power Query.
+
 ![Check-Duplicate](media/check-duplicate.png)
 
 ![Data-Cleaning](media/data-cleaning.png)
 
-#### 1.2 Data type
+#### 1.2 Handling Data Types
 
-If we change the data type directly from text to date, it might shows error like this 
+Directly converting text to date formats can result in errors.
 
 ![Error-Date](media/error-date.png)
 
-Therefore the solution
+The issue is resolved by using locale-based formatting, ensuring dates are interpreted correctly.
 
 ![Locale](media/using-locale.png)
 ![Sol-Date](media/solution-date.png)
