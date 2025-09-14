@@ -35,7 +35,12 @@ Directly converting text to date formats can result in errors.
 <img src="media/error-date.png" width="400"/>
 
 The issue is resolved by using locale-based formatting, ensuring dates are interpreted correctly.
-
+- Right-click the column → Change Type → Using Locale…
+  
 <img src="media/using-locale.png" width="400"/>
+
+- Select Date as the data type
+- Pick the correct locale (for example, English (United Kingdom) in this case)
+  
 <img src="media/solution-date.png" width="400"/>
 
