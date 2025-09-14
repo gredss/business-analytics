@@ -44,3 +44,8 @@ The issue is resolved by using locale-based formatting, ensuring dates are inter
   
 <img src="media/solution-date.png" width="400"/>
 
+### 2. PivotTables and Slicers
+
+<img src="media/timeline.png" width="400"/>
+
+The PivotTable is telling us that the total sales for furniture in Q3 2018 across the four regions shown was $55,311.65.
