@@ -46,6 +46,10 @@ The issue is resolved by using locale-based formatting, ensuring dates are inter
 
 ### 2. PivotTables and Slicers
 
+<img src="media/slicer.png" width="400"/>
+
+Slicer buttons to filter the Pivot instantly. This PivotTable (without timeline) shows that the total sales for the technology category across the four regions is $827,455.873.
+
 <img src="media/timeline.png" width="400"/>
 
-The PivotTable is telling us that the total sales for furniture in Q3 2018 across the four regions shown was $55,311.65.
+Use the timeline controls to switch between Year / Quarter / Month / Day and drag the handles to filter. The PivotTable is telling us that the total sales for furniture in Q3 2018 across the four regions shown was $55,311.65.
