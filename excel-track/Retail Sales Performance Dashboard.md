@@ -13,3 +13,9 @@ https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
 ### Deliverable
 A clean dashboard tab, assumptions tab, and raw data tab. A polished slide summarizing “Insights & Recommendations.”
+
+--
+
+### 1. Data Cleaning
+#### 1.1 Check for duplicate
+![Check-Duplicate](media/check-duplicate.png)
