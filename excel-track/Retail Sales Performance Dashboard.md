@@ -8,6 +8,7 @@ A mid-size retailer wants to track sales performance across regions, categories,
 - Conditional formatting for visual alerts (e.g., red cells for regions below target).
 - A KPI summary at the top (Revenue, Growth %, Top Product).
 
-### Data sources: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
+### Data sources
+https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting
 
-### Deliverable: An Excel file with a clean dashboard tab, assumptions tab, and raw data tab. A polished slide summarizing “Insights & Recommendations.”
+### Deliverable: A clean dashboard tab, assumptions tab, and raw data tab. A polished slide summarizing “Insights & Recommendations.”
