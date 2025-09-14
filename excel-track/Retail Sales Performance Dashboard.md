@@ -17,5 +17,7 @@ A clean dashboard tab, assumptions tab, and raw data tab. A polished slide summa
 --
 
 ### 1. Data Cleaning
-#### 1.1 Check for duplicate
+#### 1.1 Check for duplicate and missing value
 ![Check-Duplicate](media/check-duplicate.png)
+
+![Data-Cleaning](media/data-cleaning.png)
