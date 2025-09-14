@@ -21,3 +21,12 @@ A clean dashboard tab, assumptions tab, and raw data tab. A polished slide summa
 ![Check-Duplicate](media/check-duplicate.png)
 
 ![Data-Cleaning](media/data-cleaning.png)
+
+#### 1.2 Data type
+
+If we change the data type directly from text to date, it might shows error like this 
+
+![Error-Date](media/error-date.png)
+
+Therefore the solution
+
