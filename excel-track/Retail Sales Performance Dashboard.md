@@ -30,3 +30,6 @@ If we change the data type directly from text to date, it might shows error like
 
 Therefore the solution
 
+![Locale](media/using-locale.png)
+![Sol-Date](media/solution-date.png)
+
