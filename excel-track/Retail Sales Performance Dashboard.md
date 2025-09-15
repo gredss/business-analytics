@@ -59,3 +59,9 @@ Slicer buttons to filter the Pivot instantly. This PivotTable (without timeline)
 <img src="media/timeline.png" width="400"/>
 
 Use the timeline controls to switch between Year / Quarter / Month / Day and drag the handles to filter. The PivotTable is telling us that the total sales for furniture in Q3 2018 across the four regions shown was $55,311.65.
+
+#### 2.4 Unified Report Filtering
+<img src="media/merged1.png" width="400"/>
+<img src="media/merged2.png" width="400"/>
+
+A single slicer can be connected to multiple PivotTables or charts, enabling synchronized data filtering across various visualizations. This is accomplished by right-clicking the slicer and selecting "Report Connections" to link the desired tables and charts. The resulting report provides a cohesive and interactive data analysis experience.W
