@@ -64,4 +64,4 @@ Use the timeline controls to switch between Year / Quarter / Month / Day and dra
 <img src="media/merged1.png" width="400"/>
 <img src="media/merged2.png" width="400"/>
 
-A single slicer can be connected to multiple PivotTables or charts, enabling synchronized data filtering across various visualizations. This is accomplished by right-clicking the slicer and selecting "Report Connections" to link the desired tables and charts. The resulting report provides a cohesive and interactive data analysis experience.W
+A single slicer can be connected to multiple PivotTables or charts, enabling synchronized data filtering across various visualizations. This is accomplished by right-clicking the slicer and selecting "Report Connections" to link the desired tables and charts. The resulting report provides a cohesive and interactive data analysis experience.
