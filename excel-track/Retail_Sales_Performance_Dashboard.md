@@ -70,7 +70,7 @@ A single slicer can be connected to multiple PivotTables or charts, enabling syn
 
 To improve interpretability, conditional formatting was applied on the **Achievement %** column within the regional performance pivot. This allows for immediate visual alerts when a region fails to meet its target. In this dataset, all regions achieved or exceeded their targets, so no red alerts were triggered. The absence of highlighted cells itself conveys that performance across regions is satisfactory.
 
-<img src="media/conditional.png" width="400"/>  
+<img src="media/region.png" width="400"/>  
 
 ### 4. A KPI Summary
 
