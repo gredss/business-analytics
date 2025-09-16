@@ -65,3 +65,38 @@ Use the timeline controls to switch between Year / Quarter / Month / Day and dra
 <img src="media/merged2.png" width="400"/>
 
 A single slicer can be connected to multiple PivotTables or charts, enabling synchronized data filtering across various visualizations. This is accomplished by right-clicking the slicer and selecting "Report Connections" to link the desired tables and charts. The resulting report provides a cohesive and interactive data analysis experience.
+
+### 3. Conditional Formatting
+
+To improve interpretability, conditional formatting was applied on the **Achievement %** column within the regional performance pivot. This allows for immediate visual alerts when a region fails to meet its target. In this dataset, all regions achieved or exceeded their targets, so no red alerts were triggered. The absence of highlighted cells itself conveys that performance across regions is satisfactory.
+
+<img src="media/conditional.png" width="400"/>  
+
+### 4. A KPI Summary
+
+A consolidated KPI summary was developed to provide a one-page view of performance across regions, years, and product categories.
+
+* **Regional Performance:** The pivot table compares sales against targets, with an Achievement % column to highlight underperforming regions.
+  *Insight: All regions slightly exceeded their targets except the West, which achieved 91.9% of its goal.*
+
+  <img src="media/region.png" width="400"/>  
+
+* **Yearly Performance:** The pivot table tracks total sales per year and calculates growth rates, enabling quick identification of expansion or decline trends.
+  *Insight: After a contraction in 2016 (-4.26%), sales rebounded strongly with 30.6% growth in 2017 and continued with 20.3% growth in 2018.*
+
+  <img src="media/yearly.png" width="400"/>  
+
+* **Product Performance:** Sales are broken down by product category, with a slicer for year-based filtering, making the dashboard interactive and adaptable for different analysis horizons.
+  *Insight: Phones, Chairs, and Binders consistently appear as top-performing categories, together driving a significant share of total revenue.*
+
+  <img src="media/product.png" width="400"/>  
+
+* **KPI Cards:** At the top of the dashboard, KPI cards highlight the most important metrics such as Total Revenue, Growth %, and Top Product. These provide a quick executive-level overview before diving into detailed tables.
+  *Insight: Total revenue reached \$722K in 2018, with Chairs and Phones competing as the top product categories.*
+
+  <img src="media/kpi.png" width="400"/>  
+
+---
+
+**Executive Summary:**
+Overall, the business demonstrated steady revenue growth from 2016 to 2018, with most regions meeting or exceeding targets and Phones and Chairs emerging as consistent top performers, indicating a healthy trajectory supported by both geographic and product diversification.
