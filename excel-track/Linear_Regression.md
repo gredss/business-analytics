@@ -1,7 +1,7 @@
 This spreadsheet output represents a linear regression analysis. It shows the relationship between two variables, likely "Carbon Miles" (independent variable, or X) and "Environmental Cost" (dependent variable, or Y), based on a sample size of 119 observations.
 
 ### Regression Statistics
-<img src="media/linear-regression.png" width="400"/>
+<img src="media/linear-regressions.png" width="400"/>
 
 * **R-squared (0.882):** This is the coefficient of determination, indicating that approximately **88.2%** of the variance in the "Environmental Cost" can be explained by the "Carbon Miles." This is a very strong fit, suggesting the model is highly predictive.
 * **Multiple R (0.939):** This is the correlation coefficient, showing a **strong negative correlation** between the two variables. As "Carbon Miles" increase, "Environmental Cost" tends to decrease.
