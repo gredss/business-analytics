@@ -100,3 +100,6 @@ A consolidated KPI summary was developed to provide a one-page view of performan
 
 **Executive Summary:**
 Overall, the business demonstrated steady revenue growth from 2016 to 2018, with most regions meeting or exceeding targets and Phones and Chairs emerging as consistent top performers, indicating a healthy trajectory supported by both geographic and product diversification.
+
+## **Next Steps:**
+This project is still in development. Upcoming iterations will include an interactive dashboard with visual charts to complement the KPI cards. These visuals will help contextualize revenue trends, product performance, and regional achievements, making insights more intuitive and actionable.
